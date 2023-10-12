@@ -1,0 +1,17 @@
+.header__nav--menu a {
+    text-transform: uppercase;
+    line-height: 30px;
+    color: gray;
+}
+
+.header__nav--redes a {
+    color: black;
+}
+
+.header--vertical{
+    margin-left: 30px;
+}
+
+.header--horizontal{
+
+}
