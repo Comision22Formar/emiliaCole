@@ -2,10 +2,16 @@
     --tipografiaTitulos: 'Raleway', sans-serif;
     --tipografiaEmilia : 'Work Sans',sans-serif;
     --tipografiaGeneral : 'Open Sans', sans-serif;
+    --colorVerde : #44a391
+}
+
+*{
+    margin: 0;
 }
 
 body {
     font-family: var(--tipografiaGeneral);
+    padding: 10px;
 }
 
 h1 {
