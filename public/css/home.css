@@ -5,10 +5,6 @@ body.home{
     background-position: right -100px;
 }
 
-/* .home__main {
-
-} */
-
 .home__main h2{
     font-family: var(--tipografiaEmilia);
     text-transform: uppercase;
@@ -17,8 +13,8 @@ body.home{
     font-weight: 300;
     font-size: 40px;
     margin-left: 30px;
-    margin-top: 125px;
-    margin-bottom: 125px;
+    margin-top: 25vh;
+    margin-bottom: 25vh;
 }
 
 .home__main h1 {
